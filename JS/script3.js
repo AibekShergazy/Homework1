@@ -7,3 +7,6 @@ document.write(userName);
 
 let userAddress = "Bishkek, Goodstreet 32";
 document.write("<br>" + userAddress);
+
+let userMail = "aibek.shergazy.kk@gmail.com";
+document.write(userMail);
